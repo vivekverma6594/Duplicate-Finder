@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Finder", "TestWPF1\Duplicate Finder.csproj", "{0608938D-C731-440D-8A27-DC08410394EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateFinderTest", "DuplicateFinderTest\DuplicateFinderTest.csproj", "{675B3F10-4AE6-44D6-ABA2-389566F2774F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0608938D-C731-440D-8A27-DC08410394EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0608938D-C731-440D-8A27-DC08410394EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0608938D-C731-440D-8A27-DC08410394EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0608938D-C731-440D-8A27-DC08410394EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675B3F10-4AE6-44D6-ABA2-389566F2774F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675B3F10-4AE6-44D6-ABA2-389566F2774F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675B3F10-4AE6-44D6-ABA2-389566F2774F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675B3F10-4AE6-44D6-ABA2-389566F2774F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307AF8F8-7597-4E41-B2ED-A245C2841ECA}
+	EndGlobalSection
+EndGlobal
